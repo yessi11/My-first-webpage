@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  line-height: 2cm;
+}
+
+p {
+  font-style: italic ;
+  font-weight: normal;
+  font-size: larger;
+}
+
+ul {
+  font-family: serif;
+  font-size: small;
+}
+
